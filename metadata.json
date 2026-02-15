@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 박스 치수 계산기 (BoxCalc)",
+  "description": "사용자가 입력한 두께, 가로, 세로 치수를 바탕으로 3D 박스 시각화 및 전개도 합계 치수를 계산해주는 도구입니다.",
+  "requestFramePermissions": []
+}
